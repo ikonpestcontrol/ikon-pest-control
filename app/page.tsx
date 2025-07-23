@@ -29,7 +29,7 @@ export default function HomePage() {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     try {
-      await axios.post('/api/send-mail', formData);
+      await axios.post('/api/send-mail/route.js', formData);
       alert("Your request has been submitted!");
     } catch (error) {
       console.error("Error sending form:", error);
