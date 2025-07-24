@@ -17,6 +17,8 @@ export const metadata: Metadata = {
     "IKON Pest Control Services - Over 15+ years of professional pest management in Mira Road, Bhayandar, Thane. WHO & HACCP approved chemicals, 24/7 service, 4.8★ Google rating.",
   icons: {
     icon: '/favicon.ico',
+    icon: '/favicon.png',
+    icon: '/favicon.svg',
   },
 }
 
