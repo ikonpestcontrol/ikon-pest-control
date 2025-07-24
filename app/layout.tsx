@@ -15,7 +15,9 @@ export const metadata: Metadata = {
   title: "IKON Pest Control Services - Professional Pest Management Solutions",
   description:
     "IKON Pest Control Services - Over 15+ years of professional pest management in Mira Road, Bhayandar, Thane. WHO & HACCP approved chemicals, 24/7 service, 4.8★ Google rating.",
-  generator: 'v0.dev'
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
