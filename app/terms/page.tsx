@@ -36,7 +36,7 @@ const TermsAndConditions = () => {
             <li><strong>Service:</strong> Refers to the Website.</li>
             <li><strong>Terms and Conditions:</strong> These Terms that govern your use of the Service.</li>
             <li><strong>Third-party Social Media Service:</strong> Services or content provided by third parties.</li>
-            <li><strong>Website:</strong> IKON Pest Control, available at <a href="https://ikonpestcontrol.com/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">ikonpestcontrol.com</a></li>
+            <li><strong>Website:</strong> IKON Pest Control, available at <a href="https://ikonpestcontrol.in/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">ikonpestcontrol.in</a></li>
             <li><strong>You:</strong> The individual or legal entity using the Service.</li>
           </ul>
         </section>

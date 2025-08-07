@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
                         <li><strong>Country:</strong> Maharashtra, India.</li>
                         <li><strong>Device:</strong> Any internet-enabled device.</li>
                         <li><strong>Personal Data:</strong> Identifiable personal information.</li>
-                        <li><strong>Service:</strong> Our website at <a href="https://www.ikonpestcontrol.com" className="text-blue-600 hover:underline" target="_blank" rel="noreferrer">ikonpestcontrol.com</a></li>
+                        <li><strong>Service:</strong> Our website at <a href="https://www.ikonpestcontrol.in" className="text-blue-600 hover:underline" target="_blank" rel="noreferrer">ikonpestcontrol.in</a></li>
                         <li><strong>Service Provider:</strong> A party processing data on our behalf.</li>
                         <li><strong>Usage Data:</strong> Data collected automatically through service use.</li>
                         <li><strong>You:</strong> The person or entity using our service.</li>
