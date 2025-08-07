@@ -155,7 +155,7 @@ export default function HomePage() {
               {
                 icon: Star,
                 title: "4.8★ Google Rating",
-                description: "Trusted by 20+ customers with excellent service reviews",
+                description: "Trusted by 6000+ customers with excellent service reviews",
               },
               {
                 icon: Clock,
@@ -325,7 +325,7 @@ export default function HomePage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div>
               <Users className="h-8 w-8 text-ikongold mx-auto mb-2" />
-              <p className="text-2xl font-bold text-ikontext">500+</p>
+              <p className="text-2xl font-bold text-ikontext">6000+</p>
               <p className="text-ikontext">Happy Customers</p>
             </div>
             <div>

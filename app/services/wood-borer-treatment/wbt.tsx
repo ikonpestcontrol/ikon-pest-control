@@ -233,7 +233,7 @@ export default function WoodBorerTreatmentPage() {
 
                                     <p className="text-xs text-ikontext mt-2">
                                         18% GST will be applicable on total service charges. <br />
-                                        <span className="underline cursor-pointer">*Terms & Conditions apply</span>
+                                        <span className="underline cursor-pointer"><a href="/terms">*Terms & Conditions apply</a></span>
                                     </p>
                                 </form>
                             </CardContent>

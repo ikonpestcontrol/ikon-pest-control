@@ -199,7 +199,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center ikontext">
             <div>
               <Users className="h-12 w-12 mx-auto mb-4" />
-              <p className="text-3xl font-bold mb-2">500+</p>
+              <p className="text-3xl font-bold mb-2">6000+</p>
               <p className="ikontext">Happy Customers</p>
             </div>
             <div>
